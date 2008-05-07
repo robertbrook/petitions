@@ -1,0 +1,7 @@
+--- 
+format: 1
+handler: 
+  commit: 5b10c9d46af38c42a69aa731cbfade4be2d1da13
+lock: false
+repository_url: git://github.com/dfischer/rspec-haml-scaffold-generator.git
+repository_class: Piston::Git::Repository
